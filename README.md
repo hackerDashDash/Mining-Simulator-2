@@ -1,2 +1,6 @@
-# Mining-Simulator-2
-A collection of scripts for Mining Simulator 2
+# Mining Simulator 2 Scripts!
+
+## Mining Simulator 2 Fake Hatcher
+```lua
+loadstring(game:HttpGet("https://raw.github.com/hackerDashDash/Mining-Simulator-2/ms2fakehatcher"))()
+```
