@@ -2,5 +2,5 @@
 
 ## Mining Simulator 2 Fake Hatcher
 ```lua
-loadstring(game:HttpGet("https://raw.github.com/hackerDashDash/Mining-Simulator-2/ms2fakehatcher"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/Mining-Simulator-2/main/ms2fakehatcher.lua"))()
 ```
